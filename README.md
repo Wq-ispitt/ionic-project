@@ -7,7 +7,8 @@ using ionic1 to develop a patient app
   
   2.Reminder List page
   list all reminders you receive order by the time it was created
-  --update in time
+  
+  --update in real-time
   
   --push notification when screnn locked
   
